@@ -27,6 +27,26 @@
             android:exported="true"
             android:theme="@style/Theme.AndroidBasics">
         </activity>
+        <activity
+            android:name=".layouts.LinearLayoutActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AndroidBasics">
+        </activity>
+        <activity
+            android:name=".layouts.ConstraintLayoutActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AndroidBasics">
+        </activity>
+        <activity
+            android:name=".layouts.FrameGridLayoutActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AndroidBasics">
+        </activity>
+        <activity
+            android:name=".layouts.RelativeLayoutActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AndroidBasics">
+        </activity>
     </application>
 
 </manifest>
