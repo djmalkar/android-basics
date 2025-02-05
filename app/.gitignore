@@ -1,0 +1,44 @@
+# Gradle files
+.gradle/
+**/build/
+**/out/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration files
+/local.properties
+/.idea/
+/*.iml
+/.vscode/
+
+# Log files
+*.log
+
+# Generated files
+/captures/
+/.externalNativeBuild/
+.cxx/
+
+# Keystore files (Do not commit private keys)
+*.jks
+*.keystore
+
+# Android Studio configuration files
+/.idea/
+/*.iml
+
+# Dependency caches
+.gradle/
+/build/
+/app/build/
+
+# Ignore MacOS system files
+.DS_Store
+
+# Ignore Linux system files
+*.swp
+
+# Ignore Windows system files
+Thumbs.db
+
+# Google Services (Firebase)
+google-services.json

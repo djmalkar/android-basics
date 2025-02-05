@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Basics</string>
+    <string name="training_message">Hello, this is a Training Project!</string>
+    <string name="enter_text">Enter Random text</string>
+    <string name="click_me">Click Me</string>
+    <string name="check_box">Check Box</string>
+    <string name="first_option">First Option</string>
+    <string name="second_option">Second Option</string>
+</resources>
